@@ -1,0 +1,4 @@
+Below Report consist of sample Data which consists of Different Types Crimes happened in Different states of USA 
+Total number of crime rate has been decreasing steadily 
+Violent crime Year on Year Change say in 2015 and 2016  Crime rate has been increased
+State wise crimes concludes Property and Larcency Theft Rate has occured more number of times than other
