@@ -1,0 +1,21 @@
+Make Relationship between the given Tables
+
+1.Consumer by Age group (Make Age Group belw 18-35 as Young, 35-50 as middle age and above 50 as old)
+
+2.Make Budget wise Restuarant
+
+3. Most Preferred Cuisine (Top 5 Cuisines)
+
+4.Consumer By Smoking Ratio
+
+5.No of restaurants by Parking Availablitliy
+
+6. No of Cities 
+
+7.No of restaurants
+
+8 no of Customers
+
+9No of Cuisines
+
+10 Average Rating
