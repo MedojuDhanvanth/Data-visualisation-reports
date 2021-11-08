@@ -1,0 +1,12 @@
+Global Skill Analysis summary
+
+i. 49 skills are trending
+ii. Median Range of learner are from 28 to 34
+iii. Asia Region witnessing highest learners among other regions
+iv. Due to Internet Penetration around 55% of students are learning through mobile
+v. 75 millions Learners  43% are Female Learner and 57% Percent are Male Learner
+vi. Countries at top 5 Overall Ranking (Business,Data Science, Technology) are Switzerland, Luxembourg, Austria, japan, Germany
+
+
+
+
