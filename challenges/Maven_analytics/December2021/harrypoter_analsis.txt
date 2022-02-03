@@ -1,0 +1,6 @@
+Below is the Analysis of Harry Potter Movies  Dataset
+1.Total 166 Characters are Played in All 8 Movies
+2.On an Average 803Million USD Profit Generated For 8 Movies,  1.36 bilion dollars was the Total Budget and Box Office Collection 7.78 billion dollars
+3.Under  Hogwards most shoots took Place
+4.Chamber of secrets has the Longest running time
+5.Lumos, Locomoter,Protega are the most Used Incantations
